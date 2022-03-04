@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nidhisri1.github.io/csb-tw9w5i/static/css/main.926763fe.chunk.css",
+    "main.js": "https://nidhisri1.github.io/csb-tw9w5i/static/js/main.daddfbe8.chunk.js",
+    "main.js.map": "https://nidhisri1.github.io/csb-tw9w5i/static/js/main.daddfbe8.chunk.js.map",
+    "runtime-main.js": "https://nidhisri1.github.io/csb-tw9w5i/static/js/runtime-main.97f1736a.js",
+    "runtime-main.js.map": "https://nidhisri1.github.io/csb-tw9w5i/static/js/runtime-main.97f1736a.js.map",
+    "static/js/2.cfa10e34.chunk.js": "https://nidhisri1.github.io/csb-tw9w5i/static/js/2.cfa10e34.chunk.js",
+    "static/js/2.cfa10e34.chunk.js.map": "https://nidhisri1.github.io/csb-tw9w5i/static/js/2.cfa10e34.chunk.js.map",
+    "index.html": "https://nidhisri1.github.io/csb-tw9w5i/index.html",
+    "static/css/main.926763fe.chunk.css.map": "https://nidhisri1.github.io/csb-tw9w5i/static/css/main.926763fe.chunk.css.map",
+    "static/js/2.cfa10e34.chunk.js.LICENSE.txt": "https://nidhisri1.github.io/csb-tw9w5i/static/js/2.cfa10e34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97f1736a.js",
+    "static/js/2.cfa10e34.chunk.js",
+    "static/css/main.926763fe.chunk.css",
+    "static/js/main.daddfbe8.chunk.js"
+  ]
+}
